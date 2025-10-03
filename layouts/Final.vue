@@ -4,7 +4,7 @@ import Play from "/ico/play.svg?url"
 import Download from "/ico/download.svg?url"
 
 const endpointBaseUrl = "https://lepichu-0310-endpoint.deno.dev"
-const audioSrc = "/audio.mp3"
+const audioSrc = "/cover.mp3"
 
 const audioPlayer = ref(null)
 const isPlaying = ref(false)
