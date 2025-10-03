@@ -6,13 +6,13 @@ favicon: "/bg/cat.png"
 layout: "Front"
 transition: fade
 defaults:
-    title: "Happy Birthday, Jiya! 💜"
-    transition: "fade"
-    seoMeta:
-        ogImage: ""
-        twitterImage: ""
-    favicon: "/bg/cat.png"
-    icon: "/bg/cat.png"
+  title: "Happy Birthday, Jiya! 💜"
+  transition: "fade"
+  seoMeta:
+    ogImage: ""
+    twitterImage: ""
+  favicon: "/bg/cat.png"
+  icon: "/bg/cat.png"
 ---
 
 <style>
@@ -25,21 +25,27 @@ Controls are as follows.
 layout: "Cat"
 ---
 
-Hello! I know we don't talk much anymore, but <br>***happy birthday, Jiya!***<br>
+Hello! I know we don't talk much anymore, but <br>_**happy birthday,
+Jiya!**_<br>
 
-Enjoy your day, *kind of* wished I was there, but it's fine, <br>**do not forget** to make the **most of it** and *just forget about everything* for now.
+Enjoy your day, _kind of_ wished I was there, but it's fine, <br>**do not
+forget** to make the **most of it** and _just forget about everything_ for now.
 
 ---
 layout: "Blue"
 ---
 
-It's been... *a very long* **19 years** on this world, I hope you made some *good memories to look back on* to for today, and *continue to do so*, **go out today**, enjoy your day, **go pet a cat**, **eat some biryani**. It's been a few stressful months so far, ***it's time to lean back for now.***
+It's been... _a very long_ **19 years** on this world, I hope you made some
+_good memories to look back on_ to for today, and _continue to do so_, **go out
+today**, enjoy your day, **go pet a cat**, **eat some biryani**. It's been a few
+stressful months so far, _**it's time to lean back for now.**_
 
 ---
 layout: "Slate"
 ---
 
-Well... *if you want* a snack today, <br>***let me know***, that's the least **I can do!**
+Well... _if you want_ a snack today, <br>_**let me know**_, that's the least **I
+can do!**
 
 <span class="mt-8">
     Just use <strong>this</strong> UPI Address, <em>let me know<br>
@@ -53,4 +59,7 @@ Well... *if you want* a snack today, <br>***let me know***, that's the least **I
 layout: "Final"
 ---
 
-**Oh**, and *one last thing*... made the **cover of the song** you wanted for you, have fun. <span class="m-2 bg-white text-black mix-blend-screen px-2 py-1 font-medium italic">Let me know if you like it.</span>
+**Oh**, and _one last thing_... made the **cover of the song** you wanted for
+you, have fun.
+<span class="m-2 bg-white text-black mix-blend-screen px-2 py-1 font-medium italic">Let
+me know if you like it.</span>
