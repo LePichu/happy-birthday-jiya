@@ -1,5 +1,6 @@
 ---
 title: "Happy Birthday, Jiya! 💜"
+titleTemplate: "%s"
 description: "Enjoy your day! 🥳🎂"
 icon: "/bg/cat.png"
 favicon: "/bg/cat.png"
